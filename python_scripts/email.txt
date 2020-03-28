@@ -1,0 +1,3 @@
+sender@gmail.com
+sender_p@ssw0rd
+receiver@gmail.com
