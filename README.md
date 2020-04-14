@@ -4,7 +4,7 @@ Web scrapping COVID-19 data using python, plotting pie charts using pandas and m
 ## Website used for fetching data
 https://worldometers.info/coronavirus/
 
-## Work flow
+## Workflow
 1. Fetch the data from the website using web scrapping tool (BeautifulSoup).
 2. Arrange the data as a pandas data frame.
 3. Plot the data using pandas and matplotlib. Save the plot.
